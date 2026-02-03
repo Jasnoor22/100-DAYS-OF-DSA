@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/macbook/Desktop/DSA 100 days of code/Q1'
+relocations:     []
+...
